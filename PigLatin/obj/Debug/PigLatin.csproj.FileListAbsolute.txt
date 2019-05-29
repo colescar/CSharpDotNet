@@ -1,0 +1,7 @@
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PigLatin\obj\Debug\PigLatin.pdb

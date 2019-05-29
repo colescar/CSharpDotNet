@@ -1,0 +1,7 @@
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Mastermind\obj\Debug\Mastermind.csprojAssemblyReference.cache
