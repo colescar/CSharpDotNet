@@ -1,0 +1,7 @@
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojAssemblyReference.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
