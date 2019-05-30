@@ -1,0 +1,2 @@
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PoCos\obj\Debug\PoCos.csprojAssemblyReference.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\PoCos\obj\Debug\PoCos.csproj.CoreCompileInputs.cache

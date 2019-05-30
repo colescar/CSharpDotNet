@@ -4,3 +4,4 @@ C:\Users\djsc4\Documents\DevFolder\CSharpNET\MastermindV2\bin\Debug\MastermindV2
 C:\Users\djsc4\Documents\DevFolder\CSharpNET\MastermindV2\bin\Debug\MastermindV2.pdb
 C:\Users\djsc4\Documents\DevFolder\CSharpNET\MastermindV2\obj\Debug\MastermindV2.exe
 C:\Users\djsc4\Documents\DevFolder\CSharpNET\MastermindV2\obj\Debug\MastermindV2.pdb
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\MastermindV2\obj\Debug\MastermindV2.csprojAssemblyReference.cache
