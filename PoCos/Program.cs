@@ -38,12 +38,47 @@ namespace PoCos
             Gender = gender;
             LicenseNumber = number;
         }
+    }
+    class book
+    {
+        public string Title { get; set;}
+        public string Author { get; set;}
+        public string Pages { get; set; }
+        public string SKU { get; set; }
+        public string Publisher { get; set; }
+        public string Price { get; set; }
+
+        public book(string title, string author, string pages, string sku, string publisher, string price)
+        {
+            Title = title;
+            Author = author;
+            Pages = pages;
+            SKU = sku;
+            Publisher = publisher;
+            Price = price;
+
+        }
+
 
 
 
     }
-    class book
+    class Airplane
     {
+        public string Manufactuer { get; set; }
+        public string Model { get; set; }
+        public string Variant { get; set; }
+        public string Capacity { get; set; }
+        public string Engines { get; set; }
 
+        public Airplane(string manufactuer, string model, string variant, string capacity, string engines)
+        {
+            Manufactuer = manufactuer;
+            Model = model;
+            Variant = variant;
+            Capacity = capacity;
+            Engines = engines;
+        }
+           
     }
 }
