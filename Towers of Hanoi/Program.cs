@@ -39,7 +39,7 @@ namespace Towers_of_Hanoi
         }
         public static bool move(string[] moves)
         {
-            if(board[moves[1]].Count == 0 || board[moves[0]].Peek() < board[moves[1]].Peek())
+            if((board[moves[1]].Count == 0 || board[moves[0]].Peek() < board[moves[1]].Peek())&&board[moves[0]].Count >0)
             {
                 board[moves[1]].Push(board[moves[0]].Pop());
                 return true;

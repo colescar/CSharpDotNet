@@ -1,0 +1,7 @@
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\iRentable\bin\Debug\iRentable.exe.config
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\iRentable\bin\Debug\iRentable.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\iRentable\bin\Debug\iRentable.pdb
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\iRentable\obj\Debug\iRentable.csprojAssemblyReference.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\iRentable\obj\Debug\iRentable.csproj.CoreCompileInputs.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\iRentable\obj\Debug\iRentable.exe
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\iRentable\obj\Debug\iRentable.pdb

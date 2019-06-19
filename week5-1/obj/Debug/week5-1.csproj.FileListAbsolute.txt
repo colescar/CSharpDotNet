@@ -1,0 +1,2 @@
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\week5-1\obj\Debug\week5-1.csprojAssemblyReference.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\week5-1\obj\Debug\week5-1.csproj.CoreCompileInputs.cache
