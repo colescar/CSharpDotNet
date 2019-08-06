@@ -1,0 +1,2 @@
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\CarLot\obj\Debug\CarLot.csprojAssemblyReference.cache
+C:\Users\djsc4\Documents\DevFolder\CSharpNET\CarLot\obj\Debug\CarLot.csproj.CoreCompileInputs.cache
